@@ -1,4 +1,4 @@
-<img width="100%" src="./assets/banniere.svg"/>
+<img width="100%" src="./assets/banniere.png" alt="Mourchid FOLARIN, Cybersécurité & Réseau, Backend"/>
 
 <div align="center">
 
