@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:003B00,100:00FF41&height=250&section=header&text=MOURCHID%20FOLARIN&fontSize=55&fontColor=00FF41&animation=twinkling&fontAlignY=35&desc=Backend%20Developer%20%7C%20Cybersecurity%20%7C%20Networks%20%26%20IoT&descSize=18&descAlignY=55&descAlign=50"/>
+<img width="100%" src="./assets/banniere.svg"/>
 
 <div align="center">
 
@@ -132,4 +132,4 @@ mourchid@kali:~$ ./contact.sh --sujet "stage | projet | CTF"
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,50:003B00,100:000000&height=120&section=footer"/>
+<img width="100%" src="./assets/pied.svg"/>
