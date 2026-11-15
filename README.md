@@ -75,7 +75,19 @@ mourchid@kali:~$ cat focus.txt
 mourchid@kali:~$ echo $DEVISE
 
 "Construire solide, comprendre les failles, renforcer la sécurité."
-```## 🛠️ Arsenal
+```
+
+---
+
+## 🏆 Compétitions
+
+| Compétition | Résultat |
+|:--|:--|
+| 🏴 **[CSCTF 2026 « Total Warfare »](https://2026.chronos-security.ro/)** · Chronos Security · nov. 2026 | **27ᵉ sur 1 014 équipes (top 3 %)** avec l'équipe Granted, aux côtés de membres du Digital Innovation Club de l'INSTI. CTF international en ligne de 48 h, 2 223 joueurs, 111 défis. |
+
+---
+
+## 🛠️ Arsenal
 
 <div align="center">
 
