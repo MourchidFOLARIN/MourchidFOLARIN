@@ -79,11 +79,17 @@ mourchid@kali:~$ echo $DEVISE
 
 ---
 
-## 🏆 Compétitions
+## 🏆 Compétitions & hackathons
 
-| Compétition | Résultat |
-|:--|:--|
-| 🏴 **[CSCTF 2026 « Total Warfare »](https://2026.chronos-security.ro/)** · Chronos Security · nov. 2026 | **27ᵉ sur 1 014 équipes (top 3 %)** avec l'équipe Granted, aux côtés de membres du Digital Innovation Club de l'INSTI. CTF international en ligne de 48 h, 2 223 joueurs, 111 défis. |
+| Compétition | Résultat | Projet / détails |
+|:--|:--|:--|
+| 🏴 **[CSCTF 2026 « Total Warfare »](https://2026.chronos-security.ro/)** · nov. 2026 | **27ᵉ / 1 014 équipes (top 3 %)** | CTF international de 48 h organisé par Chronos Security, avec l'équipe **Granted** (membres du DIC INSTI) : web, crypto, forensics, reverse, OSINT, réseau, pwn, ICS. |
+| 🚩 **DIC — Opération Nova CTF** · 2025–2026 | **3ᵉ place** | CTF de cybersécurité : vulnérabilités web, déchiffrement, investigation réseau, exploitation de failles. |
+| 🥈 **Technova Challenge** · 2025 | **2ᵉ prix** | *Innovation Thermique Agroalimentaire* : régulation thermique intelligente et monitoring pour la conservation agroalimentaire (binôme avec Issaka Awa). |
+| 🥈 **EPITNET / ITNET Hackathon** · 2025–2026 | **2ᵉ prix** | Générateur automatisé de sites vitrines par IA, avec pipeline de déploiement et hébergement automatisé (Excellence Team). |
+| 🥉 **GENEB Challenge** · 2025 | **3ᵉ place** | *WINE (Work In Excellence)* : projet entrepreneurial de plateforme collaborative de productivité. |
+| 🎯 **HackByIFRI** · 2026 | **Demi-finaliste** | *AcademiX* : assistant IA pour étudiants (résumés, quiz, notes, rappels) en Laravel, React et PWA (Excellence Team). |
+| 🔗 **MIABE Hackathon** · 2025 | **Finaliste national** | *[TontineChain](https://github.com/MourchidFOLARIN/TontineChain)* : tontine numérique avec blockchain, analyse de risque par IA et Mobile Money. |
 
 ---
 
