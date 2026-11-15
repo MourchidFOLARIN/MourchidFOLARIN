@@ -20,52 +20,47 @@
 
 ## `$ whoami`
 ```bash
-mourchid@kali:~$ cat profil.txt
+mourchid@kali:~$ sudo nmap -sV --script=whoami mourchid.local
 
-Nom          : Mourchid FOLARIN
-Formation    : Licence 3 Informatique et Télécommunications
-               INSTI / UNSTIM
-Localisation : Lokossa, Bénin 🇧🇯
+Starting Nmap 7.94 ( https://nmap.org )
+Nmap scan report for mourchid.local (Lokossa, Bénin 🇧🇯)
+Host is up — disponible pour stages, projets et CTF.
 
-Profil       : Spécialiste en Cybersécurité
-               Développeur Backend
+PORT      STATE  SERVICE        VERSION
+22/tcp    open   identite       Mourchid FOLARIN
+80/tcp    open   formation      L3 Informatique & Télécoms — INSTI / UNSTIM
+443/tcp   open   profil         Spécialiste cybersécurité · Développeur backend
+1337/tcp  open   orientation    Sécurité offensive · Pentest · Sécurité web
+3306/tcp  open   engagements    Co-fondateur & DG — Excellence Team
+                                VP — Digital Innovation Club INSTI
+8080/tcp  open   langues        Français · Anglais
 
-Orientation  : Sécurité offensive | Pentest | Sécurité Web
-               Sécurité des systèmes et réseaux
-
-Engagements  :
-               Co-fondateur et Directeur Général
-               d'Excellence Team
-               Vice-président du Digital Innovation Club
-               de l'INSTI
-
-Langues      : Français | Anglais
-
-
-mourchid@kali:~$ sudo ./scan.sh --cible mourchid --focus
-
-[*] Lancement du scan des compétences...
-[*] 4 modules détectés
+mourchid@kali:~$ ./enum_skills.sh --verbose
 
 [01] CYBERSÉCURITÉ ........................... [ PRIORITÉ ]
      ├── Tests d'intrusion & analyse de vulnérabilités
      ├── Sécurité offensive & méthodologies de pentest
-     ├── Sécurité web : authentification, contrôle d'accès
+     ├── Sécurité des applications web
+     ├── Authentification & contrôle d'accès
      └── CTF & wargames
 
 [02] SYSTÈMES & RÉSEAUX ...................... [ ACTIF ]
-     ├── Durcissement des conteneurs Docker
+     ├── Analyse & inspection du trafic réseau
+     ├── Sécurisation des communications & chiffrement
+     ├── Durcissement des systèmes Linux
+     ├── Sécurisation des conteneurs Docker
      └── Isolation réseau & gestion des permissions
 
 [03] BACKEND ................................. [ ACTIF ]
-     ├── API robustes et sécurisées (PHP / Laravel)
+     ├── Conception d'API robustes et sécurisées
+     ├── Développement backend (PHP / Laravel)
      └── Validation des entrées & gestion des accès
 
 [04] IoT & EMBARQUÉ .......................... [ EN LABO ]
      ├── Sécurité des objets connectés
-     └── Prototypage sur ESP32
+     └── Développement & expérimentation sur ESP32
 
-[+] Scan terminé : 4 modules actifs, aucune faille tolérée.
+[+] Énumération terminée : 4 modules, aucune faille tolérée.
 
 mourchid@kali:~$ echo $DEVISE
 >> Construire solide. Comprendre les failles. Renforcer la sécurité.
