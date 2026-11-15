@@ -19,52 +19,10 @@
 ---
 
 ## `$ whoami`
-```bash
-mourchid@kali:~$ sudo nmap -sV --script=whoami mourchid.local
 
-Starting Nmap 7.94 ( https://nmap.org )
-Nmap scan report for mourchid.local (Lokossa, Bénin 🇧🇯)
-Host is up — disponible pour stages, projets et CTF.
-
-PORT      STATE  SERVICE        VERSION
-22/tcp    open   identite       Mourchid FOLARIN
-80/tcp    open   formation      L3 Informatique & Télécoms — INSTI / UNSTIM
-443/tcp   open   profil         Spécialiste cybersécurité · Développeur backend
-1337/tcp  open   orientation    Sécurité offensive · Pentest · Sécurité web
-3306/tcp  open   engagements    Co-fondateur & DG — Excellence Team
-                                VP — Digital Innovation Club INSTI
-8080/tcp  open   langues        Français · Anglais
-
-mourchid@kali:~$ ./enum_skills.sh --verbose
-
-[01] CYBERSÉCURITÉ ........................... [ PRIORITÉ ]
-     ├── Tests d'intrusion & analyse de vulnérabilités
-     ├── Sécurité offensive & méthodologies de pentest
-     ├── Sécurité des applications web
-     ├── Authentification & contrôle d'accès
-     └── CTF & wargames
-
-[02] SYSTÈMES & RÉSEAUX ...................... [ ACTIF ]
-     ├── Analyse & inspection du trafic réseau
-     ├── Sécurisation des communications & chiffrement
-     ├── Durcissement des systèmes Linux
-     ├── Sécurisation des conteneurs Docker
-     └── Isolation réseau & gestion des permissions
-
-[03] BACKEND ................................. [ ACTIF ]
-     ├── Conception d'API robustes et sécurisées
-     ├── Développement backend (PHP / Laravel)
-     └── Validation des entrées & gestion des accès
-
-[04] IoT & EMBARQUÉ .......................... [ EN LABO ]
-     ├── Sécurité des objets connectés
-     └── Développement & expérimentation sur ESP32
-
-[+] Énumération terminée : 4 modules, aucune faille tolérée.
-
-mourchid@kali:~$ echo $DEVISE
->> Construire solide. Comprendre les failles. Renforcer la sécurité.
-```
+<div align="center">
+<img width="100%" src="./assets/terminal.svg" alt="whoami — Mourchid FOLARIN"/>
+</div>
 
 ---
 

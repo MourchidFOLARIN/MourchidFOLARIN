@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="764" viewBox="0 0 880 764">
+<style>text{font-family:"JetBrains Mono","Fira Code",Consolas,"DejaVu Sans Mono","Liberation Mono",monospace;font-size:14px;white-space:pre}.c{animation:b 1s steps(1) infinite}@keyframes b{50%{opacity:0}}</style>
+<rect width="880" height="764" rx="12" fill="#0D1117" stroke="#00FF41" stroke-opacity=".45"/>
+<path d="M0 12a12 12 0 0 1 12-12h856a12 12 0 0 1 12 12v24H0z" fill="#161B22"/>
+<circle cx="22" cy="18" r="6" fill="#FF5F56"/><circle cx="42" cy="18" r="6" fill="#FFBD2E"/><circle cx="62" cy="18" r="6" fill="#27C93F"/>
+<text x="440.0" y="23" fill="#8B949E" text-anchor="middle" font-size="13">mourchid@kali: ~</text>
+<text x="22" y="62" xml:space="preserve"><tspan fill="#00FF41">┌──(</tspan><tspan fill="#00D7FF" font-weight="bold">mourchid㉿kali</tspan><tspan fill="#00FF41">)-[</tspan><tspan fill="#C9D1D9" font-weight="bold">~</tspan><tspan fill="#00FF41">]</tspan></text>
+<text x="22" y="83" xml:space="preserve"><tspan fill="#00FF41" font-weight="bold">└─$ </tspan><tspan fill="#C9D1D9" font-weight="bold">whoami --profil</tspan></text>
+<text x="22" y="104" xml:space="preserve"><tspan fill="#00FF41" font-weight="bold">  [+] </tspan><tspan fill="#7CFC9A" font-weight="bold">Nom          </tspan><tspan fill="#8B949E">: </tspan><tspan fill="#C9D1D9">Mourchid FOLARIN</tspan></text>
+<text x="22" y="125" xml:space="preserve"><tspan fill="#00FF41" font-weight="bold">  [+] </tspan><tspan fill="#7CFC9A" font-weight="bold">Formation    </tspan><tspan fill="#8B949E">: </tspan><tspan fill="#C9D1D9">L3 Informatique &amp; Télécoms — INSTI / UNSTIM</tspan></text>
+<text x="22" y="146" xml:space="preserve"><tspan fill="#00FF41" font-weight="bold">  [+] </tspan><tspan fill="#7CFC9A" font-weight="bold">Localisation </tspan><tspan fill="#8B949E">: </tspan><tspan fill="#C9D1D9">Lokossa, Bénin</tspan></text>
+<text x="22" y="167" xml:space="preserve"><tspan fill="#00FF41" font-weight="bold">  [+] </tspan><tspan fill="#7CFC9A" font-weight="bold">Profil       </tspan><tspan fill="#8B949E">: </tspan><tspan fill="#C9D1D9">Spécialiste cybersécurité · Développeur backend</tspan></text>
+<text x="22" y="188" xml:space="preserve"><tspan fill="#00FF41" font-weight="bold">  [+] </tspan><tspan fill="#7CFC9A" font-weight="bold">Orientation  </tspan><tspan fill="#8B949E">: </tspan><tspan fill="#C9D1D9">Sécurité offensive · Pentest · Sécurité web</tspan></text>
+<text x="22" y="209" xml:space="preserve"><tspan fill="#00FF41" font-weight="bold">      </tspan><tspan fill="#7CFC9A" font-weight="bold">             </tspan><tspan fill="#8B949E">  </tspan><tspan fill="#C9D1D9">Sécurité des systèmes et réseaux</tspan></text>
+<text x="22" y="230" xml:space="preserve"><tspan fill="#00FF41" font-weight="bold">  [+] </tspan><tspan fill="#7CFC9A" font-weight="bold">Engagements  </tspan><tspan fill="#8B949E">: </tspan><tspan fill="#C9D1D9">Co-fondateur &amp; Directeur Général — Excellence Team</tspan></text>
+<text x="22" y="251" xml:space="preserve"><tspan fill="#00FF41" font-weight="bold">      </tspan><tspan fill="#7CFC9A" font-weight="bold">             </tspan><tspan fill="#8B949E">  </tspan><tspan fill="#C9D1D9">Vice-président — Digital Innovation Club INSTI</tspan></text>
+<text x="22" y="272" xml:space="preserve"><tspan fill="#00FF41" font-weight="bold">  [+] </tspan><tspan fill="#7CFC9A" font-weight="bold">Langues      </tspan><tspan fill="#8B949E">: </tspan><tspan fill="#C9D1D9">Français · Anglais</tspan></text>
+<text x="22" y="314" xml:space="preserve"><tspan fill="#00FF41">┌──(</tspan><tspan fill="#00D7FF" font-weight="bold">mourchid㉿kali</tspan><tspan fill="#00FF41">)-[</tspan><tspan fill="#C9D1D9" font-weight="bold">~</tspan><tspan fill="#00FF41">]</tspan></text>
+<text x="22" y="335" xml:space="preserve"><tspan fill="#00FF41" font-weight="bold">└─$ </tspan><tspan fill="#C9D1D9" font-weight="bold">cat focus.txt</tspan></text>
+<text x="22" y="356" xml:space="preserve"><tspan fill="#00FF41" font-weight="bold">  [01] </tspan><tspan fill="#00FF41" font-weight="bold">CYBERSÉCURITÉ </tspan><tspan fill="#8B949E">............................... </tspan><tspan fill="#FF5F56" font-weight="bold">[ PRIORITÉ ]</tspan></text>
+<text x="22" y="377" xml:space="preserve"><tspan fill="#8B949E">       ├── </tspan><tspan fill="#C9D1D9">Tests d'intrusion &amp; analyse de vulnérabilités</tspan></text>
+<text x="22" y="398" xml:space="preserve"><tspan fill="#8B949E">       ├── </tspan><tspan fill="#C9D1D9">Sécurité offensive &amp; méthodologies de pentest</tspan></text>
+<text x="22" y="419" xml:space="preserve"><tspan fill="#8B949E">       ├── </tspan><tspan fill="#C9D1D9">Sécurité web : authentification &amp; contrôle d'accès</tspan></text>
+<text x="22" y="440" xml:space="preserve"><tspan fill="#8B949E">       └── </tspan><tspan fill="#C9D1D9">CTF &amp; wargames</tspan></text>
+<text x="22" y="461" xml:space="preserve"><tspan fill="#00FF41" font-weight="bold">  [02] </tspan><tspan fill="#00FF41" font-weight="bold">SYSTÈMES &amp; RÉSEAUX </tspan><tspan fill="#8B949E">.......................... </tspan><tspan fill="#00D7FF" font-weight="bold">[ ACTIF ]</tspan></text>
+<text x="22" y="482" xml:space="preserve"><tspan fill="#8B949E">       ├── </tspan><tspan fill="#C9D1D9">Analyse du trafic réseau · chiffrement des communications</tspan></text>
+<text x="22" y="503" xml:space="preserve"><tspan fill="#8B949E">       ├── </tspan><tspan fill="#C9D1D9">Durcissement Linux · sécurisation des conteneurs Docker</tspan></text>
+<text x="22" y="524" xml:space="preserve"><tspan fill="#8B949E">       └── </tspan><tspan fill="#C9D1D9">Isolation réseau &amp; gestion des permissions</tspan></text>
+<text x="22" y="545" xml:space="preserve"><tspan fill="#00FF41" font-weight="bold">  [03] </tspan><tspan fill="#00FF41" font-weight="bold">BACKEND </tspan><tspan fill="#8B949E">..................................... </tspan><tspan fill="#00D7FF" font-weight="bold">[ ACTIF ]</tspan></text>
+<text x="22" y="566" xml:space="preserve"><tspan fill="#8B949E">       ├── </tspan><tspan fill="#C9D1D9">API robustes et sécurisées (PHP / Laravel)</tspan></text>
+<text x="22" y="587" xml:space="preserve"><tspan fill="#8B949E">       └── </tspan><tspan fill="#C9D1D9">Validation des entrées &amp; gestion des accès</tspan></text>
+<text x="22" y="608" xml:space="preserve"><tspan fill="#00FF41" font-weight="bold">  [04] </tspan><tspan fill="#00FF41" font-weight="bold">IoT &amp; EMBARQUÉ </tspan><tspan fill="#8B949E">.............................. </tspan><tspan fill="#00D7FF" font-weight="bold">[ EN LABO ]</tspan></text>
+<text x="22" y="629" xml:space="preserve"><tspan fill="#8B949E">       └── </tspan><tspan fill="#C9D1D9">Sécurité des objets connectés · expérimentation ESP32</tspan></text>
+<text x="22" y="671" xml:space="preserve"><tspan fill="#00FF41">┌──(</tspan><tspan fill="#00D7FF" font-weight="bold">mourchid㉿kali</tspan><tspan fill="#00FF41">)-[</tspan><tspan fill="#C9D1D9" font-weight="bold">~</tspan><tspan fill="#00FF41">]</tspan></text>
+<text x="22" y="692" xml:space="preserve"><tspan fill="#00FF41" font-weight="bold">└─$ </tspan><tspan fill="#C9D1D9" font-weight="bold">echo $DEVISE</tspan></text>
+<text x="22" y="713" xml:space="preserve"><tspan fill="#00FF41" font-weight="bold">  "Construire solide, comprendre les failles, renforcer la sécurité."</tspan></text>
+</svg>
