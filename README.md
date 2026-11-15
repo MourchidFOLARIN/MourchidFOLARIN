@@ -42,39 +42,33 @@ Engagements  :
 Langues      : Français | Anglais
 
 
-mourchid@kali:~$ cat focus.txt
+mourchid@kali:~$ sudo ./scan.sh --cible mourchid --focus
 
-[+] CYBERSÉCURITÉ — AXE PRINCIPAL
+[*] Lancement du scan des compétences...
+[*] 4 modules détectés
 
-    Tests d'intrusion et analyse de vulnérabilités
-    Sécurité offensive et méthodologies de pentest
-    Sécurité des applications web
-    Authentification et contrôle d'accès
-    CTF & Wargames — OverTheWire Bandit
+[01] CYBERSÉCURITÉ ........................... [ PRIORITÉ ]
+     ├── Tests d'intrusion & analyse de vulnérabilités
+     ├── Sécurité offensive & méthodologies de pentest
+     ├── Sécurité web : authentification, contrôle d'accès
+     └── CTF & wargames
 
-[+] SÉCURITÉ DES SYSTÈMES ET RÉSEAUX
+[02] SYSTÈMES & RÉSEAUX ...................... [ ACTIF ]
+     ├── Durcissement des conteneurs Docker
+     └── Isolation réseau & gestion des permissions
 
-    Analyse et inspection du trafic réseau
-    Sécurisation des communications et chiffrement
-    Durcissement des systèmes Linux
-    Sécurisation des conteneurs Docker
-    Isolation réseau et gestion des permissions
+[03] BACKEND ................................. [ ACTIF ]
+     ├── API robustes et sécurisées (PHP / Laravel)
+     └── Validation des entrées & gestion des accès
 
-[+] BACKEND DEVELOPMENT
+[04] IoT & EMBARQUÉ .......................... [ EN LABO ]
+     ├── Sécurité des objets connectés
+     └── Prototypage sur ESP32
 
-    Conception d'API robustes et sécurisées
-    Développement backend
-    Validation des entrées et gestion des accès
-
-[+] IoT & SYSTÈMES EMBARQUÉS
-
-    Exploration de la sécurité des objets connectés
-    Développement et expérimentation sur ESP32
-
+[+] Scan terminé : 4 modules actifs, aucune faille tolérée.
 
 mourchid@kali:~$ echo $DEVISE
-
-"Construire solide, comprendre les failles, renforcer la sécurité."
+>> Construire solide. Comprendre les failles. Renforcer la sécurité.
 ```
 
 ---
