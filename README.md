@@ -116,7 +116,6 @@ mourchid@kali:~$ echo $DEVISE
 <img src="https://img.shields.io/badge/Nmap-0D1117?style=for-the-badge&logo=gnometerminal&logoColor=00FF41"/>
 <img src="https://img.shields.io/badge/Wireshark-0D1117?style=for-the-badge&logo=wireshark&logoColor=00FF41"/>
 <img src="https://img.shields.io/badge/Burp%20Suite-0D1117?style=for-the-badge&logo=burpsuite&logoColor=00FF41"/>
-<img src="https://img.shields.io/badge/OverTheWire-0D1117?style=for-the-badge&logo=gnubash&logoColor=00FF41"/>
 
 </div>
 
