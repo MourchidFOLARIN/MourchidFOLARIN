@@ -19,32 +19,63 @@
 ---
 
 ## `$ whoami`
-
 ```bash
 mourchid@kali:~$ cat profil.txt
-nom        : Mourchid FOLARIN
-formation  : L3 Informatique et Télécoms — INSTI / UNSTIM
-lieu       : Lokossa, Bénin 🇧🇯
-rôle       : Développeur backend (PHP / Laravel)
-passion    : Cybersécurité, réseaux & IoT
-asso       : Co-fondateur d'Excellence Team
-             Vice-président du Digital Innovation Club INSTI
-langues    : Français, Anglais
+
+Nom          : Mourchid FOLARIN
+Formation    : Licence 3 Informatique et Télécommunications
+               INSTI / UNSTIM
+Localisation : Lokossa, Bénin 🇧🇯
+
+Profil       : Spécialiste en Cybersécurité
+               Développeur Backend
+
+Orientation  : Sécurité offensive | Pentest | Sécurité Web
+               Sécurité des systèmes et réseaux
+
+Engagements  :
+               Co-fondateur et Directeur Général
+               d'Excellence Team
+               Vice-président du Digital Innovation Club
+               de l'INSTI
+
+Langues      : Français | Anglais
+
 
 mourchid@kali:~$ cat focus.txt
-[+] Sécurité web : authentification, contrôle d'accès, validation des entrées
-[+] Durcissement de conteneurs Docker (capabilities, isolation réseau, limites)
-[+] Sécurité réseau : analyse de trafic, chiffrement, réseaux locaux
-[+] CTF & wargames — OverTheWire Bandit en cours
-[+] IoT embarqué sur ESP32
+
+[+] CYBERSÉCURITÉ — AXE PRINCIPAL
+
+    Tests d'intrusion et analyse de vulnérabilités
+    Sécurité offensive et méthodologies de pentest
+    Sécurité des applications web
+    Authentification et contrôle d'accès
+    CTF & Wargames — OverTheWire Bandit
+
+[+] SÉCURITÉ DES SYSTÈMES ET RÉSEAUX
+
+    Analyse et inspection du trafic réseau
+    Sécurisation des communications et chiffrement
+    Durcissement des systèmes Linux
+    Sécurisation des conteneurs Docker
+    Isolation réseau et gestion des permissions
+
+[+] BACKEND DEVELOPMENT
+
+    Conception d'API robustes et sécurisées
+    Développement backend
+    Validation des entrées et gestion des accès
+
+[+] IoT & SYSTÈMES EMBARQUÉS
+
+    Exploration de la sécurité des objets connectés
+    Développement et expérimentation sur ESP32
+
 
 mourchid@kali:~$ echo $DEVISE
-"Construire solide, puis essayer de le casser."
-```
 
----
-
-## 🛠️ Arsenal
+"Construire solide, comprendre les failles, renforcer la sécurité."
+```## 🛠️ Arsenal
 
 <div align="center">
 
